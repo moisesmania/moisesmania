@@ -48,7 +48,7 @@ Projeto de simulação e monitoramento de um britador utilizando conceitos de **
 
 **Tecnologias:** Python • MQTT • Node-RED • FIWARE • NGSI-LD • Orion-LD • QuantumLeap • CrateDB • Grafana
 
-🔗 [Ver projeto](LINK_DO_REPOSITORIO)
+🔗 [Ver projeto]( https://github.com/moisesmania/G-meo-Digital-de-um-Britador.git )
 
 ---
 
