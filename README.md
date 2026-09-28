@@ -58,7 +58,7 @@ Projeto publicado utilizando **GitHub Pages**, desenvolvido como parte da minha 
 
 **Tecnologias:** HTML • CSS • JavaScript
 
-🔗 [Acessar site](LINK_DO_SITE)
+🔗 [Acessar site](https://moisesmania.github.io/moisite/)
 
 🔗 [Ver código](LINK_DO_REPOSITORIO)
 
